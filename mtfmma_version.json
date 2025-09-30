@@ -1,0 +1,11 @@
+{
+  "version": "v2.0.0.0",
+  "notes": "Licensing update and Update alerting.",
+  "downloadUrl": "https://www.badbuddhacustoms.com/",
+  "published": "2025-09-30",
+  "author": "BadBuddhaCustoms",
+  "breakingChanges": false,
+  "changelog": [
+    "Converted to User based licensing",
+    "Added update popup with NTWindow",
+  ]
