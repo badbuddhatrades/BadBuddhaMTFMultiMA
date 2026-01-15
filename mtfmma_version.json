@@ -1,11 +1,9 @@
 {
-  "version": "v2.0.0.0",
-  "notes": "Licensing update and Update alerting.",
-  "downloadUrl": "https://github.com/badbuddhatrades/BadBuddhaMTFMultiMA/raw/refs/heads/main/BadBuddhaMTFMultiMA.zip",
-  "published": "2025-09-30",
-  "author": "BadBuddhaCustoms",
-  "breakingChanges": false,
-  "changelog": [
-    "Converted to User based licensing",
-    "Added update popup with NTWindow",
-  ]
+  "product": "BadBuddha MTF MultiMA",
+  "version": "2.1.0.0",
+  "releaseDate": "2026-01-10",
+  "type": "indicator",
+  "tier": "pro",
+  "minNinjaTraderVersion": "8.1.0.0",
+  "downloadUrl": "https://ninjascript-downloads.badbuddhacustoms.workers.dev/download/MTF-MultiMA-Pro/2.1.0.0?source=update"
+}
